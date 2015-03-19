@@ -1,10 +1,11 @@
 <link href="<?php echo base_url();?>assets/css/homepage.css" rel="stylesheet">
 
-    <div class="site-wrapper">
+<body id="cover_home" >
+    <div class="site-wrapper" >
 
       <div class="site-wrapper-inner">
 
-        <div class="cover-container">
+        <div class="cover-container" >
 
           
           <?php echo $this->load->view('navbar');?>
@@ -28,3 +29,4 @@
       </div>
 
     </div>
+</body>
