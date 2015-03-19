@@ -48,9 +48,9 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
+$db['default']['hostname'] = 'db4free.net';
+$db['default']['username'] = 'uddo';
+$db['default']['password'] = 'uddo1234';
 $db['default']['database'] = 'uddo';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
