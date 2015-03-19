@@ -1,0 +1,39 @@
+@media (min-width: 500px) {
+  .container {
+    width: 800px;
+  }
+}
+
+.background {
+    position:relative;
+}
+
+.ticket {
+	 border: 15px solid #c54638;
+}
+
+.ticket-container {
+	padding-top: 20px;
+}
+
+.post-content {
+    background: none repeat scroll 0 0 #FFFFFF;
+    opacity: 0.5;
+    top:0;
+    left:0;
+    position: absolute;
+}
+
+.QR-Code {
+	max-width: 150px;
+}
+
+.top {
+	padding-bottom: 10px;
+}
+.middle {
+	padding: 20px;
+}
+.bottom {
+	padding-top: 20px;
+}
