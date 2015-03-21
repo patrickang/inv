@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'db4free.net';
-$db['default']['username'] = 'uddo';
-$db['default']['password'] = 'uddo1234';
-$db['default']['database'] = 'uddo';
+$db['default']['hostname'] = 'localhost';
+$db['default']['username'] = 'activege_uddo';
+$db['default']['password'] = 'Ejplka@1989';
+$db['default']['database'] = 'activege_uddo';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
